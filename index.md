@@ -23,4 +23,6 @@ Commands will styled as inline code, whilst the keys pressed will be shown in an
 
 * `<up>` -> `<enter>` -> `\\ runs "bash test.sh"`
 
+![Image](sc7.png)
+
 * `git commit -m "fixed"`
