@@ -25,4 +25,8 @@ Commands will styled as inline code, whilst the keys pressed will be shown in an
 
 ![Image](sc7.png)
 
-* `git commit -m "fixed"`
+* `git commit -m "fixed"` 
+
+![Image](sc8.png)
+
+I couldn't get the previous part to work. I referred to lecture but I still don't understand what is wrong.
