@@ -30,7 +30,7 @@ Commands will styled as inline code, while the keys pressed will be shown in ang
 <br>
 
 * `<left>` -> `<x>` -> `<a>` -> `<2>` -> `<esc>` -> `:wq` -> `<enter>`
-     * Edits file as required, then saves and closes the vim editor
+     * Edits file as required, then saves the file and closes the vim editor
 
 ![Image](sc6.png)
 
