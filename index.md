@@ -1,4 +1,4 @@
-Commands will styled as inline code, whilst the keys pressed will be shown in angled brackets.
+Commands will styled as inline code, while the keys pressed will be shown in angled brackets.
 
 * `ssh cs15lsp23rp@ieng6.ucsd.edu` -> `<enter>`
     * Logs onto a remote server `ieng6`
@@ -36,13 +36,14 @@ Commands will styled as inline code, whilst the keys pressed will be shown in an
 
 <br>
 
-* `<up>` -> `<enter>` -> `\\ runs "bash test.sh"` 
-     *  Goes through command history and runs `bash test.sh`
+* `<up>` -> `<enter>`
+     *  Goes through command history to run `bash test.sh`
 
 ![Image](sc7.png)
+
 <br>
 
-* `git add ListExamples.java`
+* `git add ListExamples.java` -> `<enter>`
      * Adds modified files to be committed
 
 * `git commit -m "fixed"` -> `<enter>`
