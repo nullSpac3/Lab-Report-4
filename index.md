@@ -43,7 +43,7 @@ Commands will styled as inline code, while the keys pressed will be shown in ang
 
 <br>
 
-* `git add ListExamples.java` -> `<enter>`
+* `git add ListExamples.java` -> `<enter>` 
      * Adds modified files to be committed
 
 * `git commit -m "fixed"` -> `<enter>`
