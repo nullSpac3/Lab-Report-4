@@ -52,5 +52,5 @@ Commands will styled as inline code, while the keys pressed will be shown in ang
 
 ![Image](sc9.png)
 
-* `git push origin main`
+* `git push origin main` -> `<enter>` 
      * Pushes committed changes to my `lab7` remote repository's main branch
