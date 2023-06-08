@@ -1,7 +1,7 @@
 Commands will styled as inline code, whilst the keys pressed will be shown in angled brackets.
 
 * `ssh cs15lsp23rp@ieng6.ucsd.edu` -> `<enter>`
-    * Logs into a remote server `ieng6`
+    * Logs onto a remote server `ieng6`
 
 ![Image](sc1.png)
 
