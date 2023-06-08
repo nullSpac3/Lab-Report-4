@@ -28,6 +28,6 @@ Commands will styled as inline code, whilst the keys pressed will be shown in an
 
 * `git commit -m "fixed"` -> `<enter>`
 
-![Image](sc8.png)
+![Image](sc9.png)
 
 I couldn't get the previous part to work. I referred to lecture but I still don't understand what is wrong.
